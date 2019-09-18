@@ -2,15 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello",
-      "customerId": 1,
-      "projectId": 1      
-    },
-    {
-      "id": 2,
-      "title": "hello",
-      "customerId": 2,
-      "projectId": 2
+      "title": "hello"
     }
   ],
   "profile": {
