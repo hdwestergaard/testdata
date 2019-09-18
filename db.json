@@ -2,17 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello",
-      "customerId": 1
-    }
-  ],
-  "registrations": [
-    {
-      "id": 1,
       "title": "Customer 1",
       "customerId": 1
+    },
+    {
+      "id": 2,
+      "title": "Customer 2",
+      "customerId": 2
     }
-  ],
+  ],  
   "profile": {
     "name": "typicode"
   }
