@@ -2,27 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-    },{
+      "title": "hello",
+      "customerId": 1,
+      "projectId": 1      
+    },
+    {
       "id": 2,
-      "title": "hello"
+      "title": "hello",
+      "customerId": 2,
+      "projectId": 2
     }
   ],
   "profile": {
     "name": "typicode"
-  },
-  "registrations": [
-    { 
-      "id": 1,
-      "customerId": 1,
-      "projectId": 1,
-      "name": "Reg 1"
-    },
-    { 
-      "id": 2,
-      "customerId": 2,
-      "projectId": 2,
-      "name": "Reg 2"
-    }
-  ]
+  }
 }
